@@ -1,0 +1,20 @@
+---
+title: "TRoM dataset"
+excerpt: "TRoM dataset <br/><img src='/images/mark.jpg'>"
+collection: portfolio
+---
+
+This is the annotation toolkit for TRoM data set. It is written with MATLAB and the main function is impoly. It can provide a pixel-level annotation for the data set TRoM(Tsinghua road markings)
+
+
+
+The download link is: https://drive.google.com/drive/folders/0BzU3xph6la-TVm1pVUw4Ml9KMTg?resourcekey=0-fk0zYrM8xwcoCaOnCqFBtg&usp=sharing
+
+https://github.com/xllau/TRoM_annotation_v1.0
+
+@inproceedings{xiaolong2017benchmark,
+title={Benchmark for Road Marking Detection: Dataset Specification and Performance Baseline},
+author={Xiaolong Liu, Zhidong Deng, Hongchao Lu, Lele Cao},
+booktitle={ITSC},
+year={2017} }
+
