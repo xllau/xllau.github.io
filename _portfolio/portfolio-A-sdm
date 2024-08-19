@@ -6,12 +6,11 @@ collection: portfolio
 
 We employ the stable diffusion model to produce data for training purposes.
 
-<img src='/images/rain.png'>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
     <img src='/images/rain.png' alt='Image 1'>
-    <img src='/images/rain.png' alt='Image 2'>
-    <img src='/images/rain.png' alt='Image 3'>
-    <img src='/images/rain.png' alt='Image 4'>
+    <img src='/images/snow.png' alt='Image 2'>
+    <img src='/images/fog.png' alt='Image 3'>
+    <img src='/images/night.png' alt='Image 4'>
 </div>
 
 The work was done in collaboration with colleagues Yangfan and others.
