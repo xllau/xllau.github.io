@@ -14,7 +14,7 @@ After his academic tenure at Tsinghua University, Dr. Liu transitioned to indust
 
 Currently, Dr. Liu serves as the Chief Architect in Large Models at Holomatic, a position he has held for one year. In this role, he leads the development and implementation of large-scale models, leveraging his extensive background in computer vision, robotics, and autonomous vehicle perception.
 
-Throughout his career, Dr. Liu's research has focused on advancing the fields of computer vision, intelligent robotics, and environmental perception for self-driving cars. His recent interests have expanded to include large models, particularly diffusion models and their applications in Artificial General Intelligence (AGI). This work continues to bridge the gap between theoretical computer science and practical implementations in autonomous systems.
+Throughout his career, Dr. Liu's research has focused on advancing the fields of computer vision, intelligent robotics, and environmental perception for self-driving cars. His recent interests have expanded to include large models, particularly diffusion models and their applications in Artificial Intelligence. This work continues to bridge the gap between theoretical computer science and practical implementations in autonomous systems.
 
 Dr. Liu has made substantial contributions to both academic and industrial research. He has authored or co-authored more than 10 papers in peer-reviewed international journals and conferences. Additionally, he is an inventor on more than 10 international patents, demonstrating his innovative approach to solving complex problems in his field.
 
