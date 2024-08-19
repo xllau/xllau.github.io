@@ -1,0 +1,9 @@
+---
+title: "Stable Diffusion for data generation"
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+We use stable diffusion model to generate data for training. 
+
+<img src='/images/rain.png'>
